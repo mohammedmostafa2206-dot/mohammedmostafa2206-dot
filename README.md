@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/mohamed-mostaf7a"><img src="https://img.shields.io/badge/Mohamed%20Mustafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/mohammedmostafa2206-dot"><img src="https://img.shields.io/badge/GitHub-mohammedmostafa2206--dot-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:mohammedmostafa2206@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-Your%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Mohamed_Mustafa-m6f"><img src="https://img.shields.io/badge/YouTube-Mohamed%20Mustafa-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 class MohamedMustafa {
   String role = "Full Stack Developer & Content Creator";
   String language = "Arabic";
-  String focus = "Web Development | React & Node.js";
+  String focus = "React.js & Node.js Web Applications";
   List<String> skills = [
     "React.js",
     "Node.js & Express.js",
